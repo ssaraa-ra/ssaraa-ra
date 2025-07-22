@@ -4,7 +4,7 @@ I'm a web developer who loves turning ideas into clean, functional, and user-fri
 
 ## 🛠 Tech I Use  
 - **Languages**: HTML, CSS, JavaScript, PHP, Python
-- **Frameworks & Libraries**: Bootstrap, Tailwind CSS  
+- **Frameworks & Libraries**: React.js, Bootstrap, Tailwind CSS  
 - **Database**: MySQL  
 
 Thanks for stopping by!  
