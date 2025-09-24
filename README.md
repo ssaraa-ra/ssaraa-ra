@@ -8,9 +8,6 @@ I'm a web developer who loves turning ideas into clean, functional, and user-fri
 - **Database**: MySQL  
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssaraa-ra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 Thanks for stopping by!  
 
 
