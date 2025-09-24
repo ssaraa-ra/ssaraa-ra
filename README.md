@@ -10,10 +10,6 @@ I'm a web developer who loves turning ideas into clean, functional, and user-fri
 
 Thanks for stopping by!  
 
-
-
-
----
 [![](https://visitcount.itsvg.in/api?id=ssaraa-ra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
